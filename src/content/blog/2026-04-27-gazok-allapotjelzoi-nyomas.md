@@ -1,5 +1,5 @@
 ---
-author: Mayer Miklós
+author: Mayer Miklos
 pubDatetime: 2026-04-27
 modDatetime: 2026-04-27
 title: Gázok állapotjelzői, nyomás
@@ -7,7 +7,7 @@ slug: gazok-allapotjelzoi
 featured: false
 draft: false
 tags:
-  - jól sikerült tanóra,
+  - jólsikerültóra,
 ---
 Egy jól sikerült tanórám vázlata.
 
