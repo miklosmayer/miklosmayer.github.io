@@ -8,8 +8,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://miklosmayer.github.io",
-  base: "/astronew/",
+  site: "https://miklosmayer.github.io/astronew/",
   integrations: [
     tailwind({
       applyBaseStyles: false,
