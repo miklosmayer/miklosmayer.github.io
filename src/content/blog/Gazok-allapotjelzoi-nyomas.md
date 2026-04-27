@@ -6,8 +6,6 @@ title: Gázok állapotjelzői, nyomás
 slug: gazok-allapotjelzoi
 featured: false
 draft: false
-tags:
-  - jólsikerültóra,
 ---
 Egy jól sikerült tanórám vázlata.
 
