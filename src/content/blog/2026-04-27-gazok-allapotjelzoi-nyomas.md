@@ -5,7 +5,7 @@ modDatetime: 2026-04-27
 title: Gázok állapotjelzői, nyomás
 slug: gazok-allapotjelzoi
 featured: false
-draft: true
+draft: false
 tags:
   - jól sikerült tanóra,
 ---
@@ -33,4 +33,11 @@ A Phet szimuláció különösen jó volt annak szemleltétésére, hogy a nyom
 
 A légnyomással számolva, amikor kijött hogy 1 négyzetméterre 10 tonna súlya hat, nem lepődtek meg annyira mint vártam - ezt a részt a jövőben fizikailag is demonstrálni szeretném. Például egy mutatóujjhegyre helyezett teli üveggel.
 
-Az óra legvégén vetített Mythbusters tartálykocsis összeroppantós filmrészletet különösen élvezték, ezt a jövőben is használni fogom. 
+Az óra legvégén vetített [Mythbusters tartálykocsis összeroppantós](https://www.youtube.com/watch?v=kM-k1zofs58) filmrészletet különösen élvezték, ezt a jövőben is használni fogom. 
+
+
+|  |
+| ------------------------------------------------------------------------------------------ |
+| [https://www.youtube.com/watch?v=kM-k1zofs58](https://www.youtube.com/watch?v=kM-k1zofs58) |
+
+
