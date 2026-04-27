@@ -1,4 +1,5 @@
 ---
+author: Mayer Miklos
 pubDatetime: 2026-04-27
 modDatetime: 2026-04-27
 title: Látványos kísérletek a Boyle-Marriotte törvényre
@@ -10,10 +11,8 @@ description: Kedvenc kísérleteim a Boyle-Marriotte törvény demonstrálásár
 ---
 ## 1. PET palack összenyomása
 
-##   
-2. Lufi fújása pet palackban  
+
+
+2. Lufi fújása pet palackban
 3. Fecskendő összenyomása
 
-
-
-&nbsp;
