@@ -6,6 +6,7 @@ title: Gázok állapotjelzői, nyomás
 slug: gazok-allapotjelzoi
 featured: false
 draft: false
+description: gázokról, nyomásról
 ---
 Egy jól sikerült tanórám vázlata.
 
