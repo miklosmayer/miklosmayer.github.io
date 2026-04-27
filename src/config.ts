@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://miklosmayer.github.io", // replace this with your deployed domain
   author: "Miklos Mayer",
   desc: "Fizikatanári tapasztalataim",
-  title: "AstroPaper",
+  title: "Fluxuskondenzátor",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
@@ -12,8 +12,8 @@ export const SITE: Site = {
 };
 
 export const LOCALE = {
-  lang: "hu", // html lang code. Set this empty and default will be "en"
-  langTag: [], // BCP 47 Language Tags. Set this empty [] to use the environment default
+  lang: "en", // html lang code. Set this empty and default will be "en"
+  langTag: [en-EN], // BCP 47 Language Tags. Set this empty [] to use the environment default
 } as const;
 
 export const LOGO_IMAGE = {
