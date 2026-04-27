@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://miklosmayer.github.io/astronew/", // replace this with your deployed domain
   author: "Miklos Mayer",
-  desc: "Fizikatanárki tapasztalataim",
+  desc: "Fizikatanári tapasztalataim",
   title: "AstroPaper",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
