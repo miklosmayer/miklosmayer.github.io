@@ -15,9 +15,13 @@ Mentortanárom szerint az eddigiek közül láthatóan ezt az órát élveztem 
 
 Mivel kémia órán mostanság tanultak a szénhidrogénekről, élvezték, hogy tudnak rengeteg szénhidrogént felsorolni, és némelyikük korrigálta is a többieket, hogy hányas szénlánctól felfelé már folyadékok. Ez kiváló lehetőség volt arra, hogy folyadék-gáz együttlétéről is tudjunk beszélni. Pl. tankolásnál érezzük a benzin szagát.
 
-Az állapotjelzők tippelésénél a sűrűség volt az első, aztán a térfogat és a hőmérséklet - a nyomást senki nem mondta. 4
+Az állapotjelzők tippelésénél a sűrűség volt az első, aztán a térfogat és a hőmérséklet - a nyomást senki nem mondta. 
 
 A Phet szimuláció során nagyon élvezték, hogy a pumpával lehet belepumpálni a gázt, és hogy nagyon várták, hogy meddig tudom felfűteni a tartályt, hogy mikor robban le a tartály fedele.
+
+![phet gas sim.png](</phet gas sim.png>)
+
+
 
 Itt még nem mondtuk ki, de érzékelhettek, hogy a hőmérséklet emelésével nő a nyomás. Amikor a tartály felrobbant, akkor jól látszódott ahogy a részecskék szanaszét repültek. Arra, hogy mi okozta a robbanást, nem volt egyértelmű válasz, de valaki bemondta, hogy megnőtt a nyomás, ami tökéletes átvezetés volt a nyomás fogalmának bevezetésére.
 
